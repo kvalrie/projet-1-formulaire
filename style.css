@@ -1,0 +1,91 @@
+.showcase {
+	min-height: 400px;
+	background: url(header.jpg) no-repeat 0 -100px;
+	background-size: 100%;
+	text-align: center;
+	color: white;
+	font-family: nexaheavy, sans-serif ;
+	display: block;
+	padding: 0;
+	margin: 0;
+
+}
+
+.showcase .content h1 {
+display: block;
+	padding-top:100px;
+	margin-top: 0;
+}
+.showcase select{
+
+	margin-left:auto;
+margin-right: auto;
+width: 600px;
+}
+
+.form{
+	display: block;
+background-color: ;
+margin-left:auto;
+margin-right: auto;
+width: 600px;
+
+
+}
+.genre{
+font-family: nexaheavy, sans-serif;
+	margin-top: 25px;
+	display: block;
+	margin-bottom: 5px;
+}
+.nogenre label{
+	display: block;
+	margin-bottom: 5px;
+	font-family: nexaheavy, sans-serif;
+	margin-top: 25px;
+
+}
+#end p{
+	text-align: center;
+	font-family: nexaheavy, sans-serif;
+	font-weight: bold;
+
+}
+
+input[type="text"] {
+	display: block;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  height: 40px;
+}
+
+select{
+  border-radius: 4px;
+  height: 40px;
+  line-height: 40px;
+  outline: none;
+  vertical-align: middle;
+  display: block;
+  width: 609px;
+}
+
+textarea{
+border: 1px solid #ddd;
+  border-radius: 4px;
+  width: 609px;
+  height: 120px;
+  display: block;
+
+}
+
+footer form{
+margin-top: 25px;
+	display: block;
+	float: right;
+	font-family: nexaheavy, sans-serif;
+
+}
+img{
+		width: 150px;
+
+}
